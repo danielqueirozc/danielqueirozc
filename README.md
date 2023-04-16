@@ -21,7 +21,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block"><br/>
+<div align="center" style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -33,6 +33,3 @@
 </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3bace2&height=120&section=footer"/>
-
-  
-  ![Snake animation](https://github.com/danielqueirozc/danielqueirozc/blob/output/github-contribution-grid-snake.svg)
